@@ -1,5 +1,12 @@
 h1 {
   text-align: center;
-  color: red;
+  color: cornflowerblue;
+  font-size: 5em;
   font-family: 'Dancing Script', cursive;
+}
+
+.main_img {
+    width: 100%;
+    height: 480px;
+    background: url('./top.jpg');
 }
