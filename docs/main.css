@@ -14,7 +14,7 @@ h1 {
     background-size: cover;
 }
 
-.inner-txt {
+div.inner-txt {
   height: 100%;
-  background: rgba(255,255,255,0.6);
+  background: rgba(255,255,255,0.5);
 }
