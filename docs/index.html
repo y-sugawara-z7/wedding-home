@@ -11,6 +11,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Open+Sans&display=swap" rel="stylesheet">
     <link href="./main.css" rel="stylesheet">
 
+    <script src=./main.js></script>
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -27,11 +29,9 @@
         </h1>
       </div>
     </div>
-    <div>
-      <button type="button" class="btn btn-primary btn-lg btn-block" onclick="location.href='./zaseki.html'">座席表</button>
-    </div>
-    <div class="card col-xs-12 col-sm-12 col-md-12">
+    <div class="card col-xs-12 col-sm-12 col-md-12" onclick=goZaseki()>
       <div class="row no-gutters">
+        <a class ="Link" href='./zaseki.html'></a>
         <div class="col-xs-4 col-sm-4 col-md-4">
           <img src="./top.jpg" class="card-img" alt="img1">
         </div>
@@ -41,6 +41,20 @@
             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
           </div>
+        </div>
+      </div>
+    </div>
+    <div class="card col-xs-12 col-sm-12 col-md-12">
+      <div class="row no-gutters">
+        <div class="col-xs-8 col-sm-8 con-md-8">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+        <div class="col-xs-4 col-sm-4 col-md-4">
+          <img src="./top.jpg" class="card-img" alt="img1">
         </div>
       </div>
     </div>
