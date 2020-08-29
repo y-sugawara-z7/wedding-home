@@ -2,6 +2,10 @@ function goZaseki() {
   goLink("./zaseki.html");
 }
 
+function goHome() {
+  goLink("./index.html");
+}
+
 function goMessage() {
   goLink("./message.html");
 }
