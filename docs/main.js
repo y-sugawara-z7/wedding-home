@@ -10,6 +10,10 @@ function goMessage() {
   goLink("./message.html");
 }
 
+function goProfile() {
+  goLink("./profile.html");  
+}
+
 function goLink(link) {
   document.location.href = link;
 }
