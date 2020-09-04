@@ -13,6 +13,16 @@ h2 {
   font: bold;
 }
 
+tr{
+  height: 3em;
+}
+
+.profile-head {
+  text-align: center;
+  background-color: green;
+  color: white;
+}
+
 .td-yu {
   text-align: left;
 }
