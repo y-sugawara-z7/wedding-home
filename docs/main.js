@@ -11,7 +11,11 @@ function goMessage() {
 }
 
 function goProfile() {
-  goLink("./profile.html");  
+  goLink("./profile.html");
+}
+
+function goMenu() {
+  goLink("./menu.html");  
 }
 
 function goLink(link) {
