@@ -15,7 +15,11 @@ function goProfile() {
 }
 
 function goMenu() {
-  goLink("./menu.html");  
+  goLink("./menu.html");
+}
+
+function goMusic() {
+  goLink("./music.html");  
 }
 
 function goLink(link) {
