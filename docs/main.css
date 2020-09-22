@@ -92,6 +92,29 @@ tr{
     font-style:italic;
 }
 
+.music_table{
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.music_table th, td{
+  padding: 10px 0;
+  text-align: center;
+}
+
+.music_header{
+  background-color: #FFCCFF;
+}
+
+.music_header_y{
+  background-color: #5fc2f5;
+}
+
+.music_table tr:nth-child(even){
+  background-color: #eee
+}
+
 div.inner-txt {
   padding-top: 1em;
   padding-bottom: 1em;
