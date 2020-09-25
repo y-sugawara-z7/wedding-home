@@ -71,6 +71,17 @@ tr{
   text-align: center;
 }
 
+.covid_list {
+  text-align: left;
+  padding-left: 5em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.space {
+  color: white;
+}
+
 .food-menu {
     margin: 2em 0;
     background: #f1f1f1;
