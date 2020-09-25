@@ -55,6 +55,10 @@ tr{
   background-size: cover;
 }
 
+.drink_img {
+  width: 100%;  
+}
+
 .message {
   text-align: center;
   margin: 0;
