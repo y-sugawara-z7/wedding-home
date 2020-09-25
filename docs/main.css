@@ -56,7 +56,11 @@ tr{
 }
 
 .drink_img {
-  width: 100%;  
+  width: 100%;
+}
+
+.food_img {
+  width: 100%;
 }
 
 .message {
