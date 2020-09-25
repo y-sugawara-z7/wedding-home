@@ -75,6 +75,10 @@ tr{
   border: double 5px #FFD700;
 }
 
+.music_text {
+  text-align: center;
+}
+
 .covid {
   text-align: center;
 }
