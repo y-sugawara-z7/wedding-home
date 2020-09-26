@@ -138,6 +138,17 @@ tr{
   background-color: #eee
 }
 
+.zaseki_div {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.zaseki_img {
+  width: 100%;
+}
+
 div.inner-txt {
   padding-top: 1em;
   padding-bottom: 1em;
